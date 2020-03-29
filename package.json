@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "*",
+    "redis": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "simple-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/routbisu/docker1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/routbisu/docker1/issues"
+  },
+  "homepage": "https://github.com/routbisu/docker1#readme",
+  "description": "Test file"
+}
